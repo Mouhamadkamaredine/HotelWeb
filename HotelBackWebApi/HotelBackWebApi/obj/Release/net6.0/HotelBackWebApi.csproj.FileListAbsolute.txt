@@ -1,0 +1,7 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.csproj.CoreCompileInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.RazorAssemblyInfo.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\HotelBackWebApi\obj\Release\net6.0\HotelBackWebApi.RazorAssemblyInfo.cs

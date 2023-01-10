@@ -1,0 +1,30 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.deps.json
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\ref\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.Models.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.CopyComplete
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\ref\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.deps.json
+C:\moudi\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.Models.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel\bin\Debug\net6.0\Hotel.Models.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.AssemblyReference.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfoInputs.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.AssemblyInfo.cs
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.CoreCompileInputs.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.csproj.CopyComplete
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\refint\Hotel.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\Hotel.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel\obj\Debug\net6.0\ref\Hotel.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hotel/1.0.0": {
+        "dependencies": {
+          "Hotel.Models": "1.0.0"
+        },
+        "runtime": {
+          "Hotel.dll": {}
+        }
+      },
+      "Hotel.Models/1.0.0": {
+        "runtime": {
+          "Hotel.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hotel.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

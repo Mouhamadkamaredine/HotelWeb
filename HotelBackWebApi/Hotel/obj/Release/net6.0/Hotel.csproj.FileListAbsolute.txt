@@ -1,0 +1,15 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\Hotel.deps.json
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\ref\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\Hotel.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\bin\Release\net6.0\Hotel.Models.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.csproj.CopyComplete
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\ref\Hotel.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel\obj\Release\net6.0\Hotel.pdb

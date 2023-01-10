@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6fa4a5e-fe36-4d28-b064-61ec120d8582": {
+      "ProjectGuid": "d6fa4a5e-fe36-4d28-b064-61ec120d8582",
+      "DisplayName": "HotelBackWebApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "29f4ef00-2601-4a57-82f7-e1f52d4fff04": {
+      "ProjectGuid": "29f4ef00-2601-4a57-82f7-e1f52d4fff04",
+      "DisplayName": "HotelUserWeb",
+      "ColorIndex": 1
+    },
+    "f90f303e-9225-4025-a7d6-8bba8bba0784": {
+      "ProjectGuid": "f90f303e-9225-4025-a7d6-8bba8bba0784",
+      "DisplayName": "Hotel.sql",
+      "ColorIndex": 2
+    },
+    "607c2e51-9529-44fe-8ecf-bda60e4cf1ad": {
+      "ProjectGuid": "607c2e51-9529-44fe-8ecf-bda60e4cf1ad",
+      "DisplayName": "Hotel",
+      "ColorIndex": 3
+    },
+    "19ef1357-7e82-4d1c-8f48-eb02bedfc80b": {
+      "ProjectGuid": "19ef1357-7e82-4d1c-8f48-eb02bedfc80b",
+      "DisplayName": "Hotel.Models",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

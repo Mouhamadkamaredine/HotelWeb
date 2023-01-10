@@ -1,0 +1,5 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.sql\obj\Release\net6.0\Hotel.sql.csproj.AssemblyReference.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.sql\obj\Release\net6.0\Hotel.sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.sql\obj\Release\net6.0\Hotel.sql.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.sql\obj\Release\net6.0\Hotel.sql.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.sql\obj\Release\net6.0\Hotel.sql.csproj.CoreCompileInputs.cache

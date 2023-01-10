@@ -1,0 +1,23 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.deps.json
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\ref\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\ref\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.deps.json
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\bin\Debug\net6.0\Hotel.Models.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.csproj.AssemblyReference.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.AssemblyInfoInputs.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.AssemblyInfo.cs
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.csproj.CoreCompileInputs.cache
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\refint\Hotel.Models.dll
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\Hotel.Models.pdb
+C:\moudi\source\repos\HotelBackWebApi\Hotel.Models\obj\Debug\net6.0\ref\Hotel.Models.dll

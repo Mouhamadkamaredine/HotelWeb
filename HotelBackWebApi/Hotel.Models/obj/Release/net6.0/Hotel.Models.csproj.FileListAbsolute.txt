@@ -1,0 +1,11 @@
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Release\net6.0\Hotel.Models.deps.json
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Release\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Release\net6.0\ref\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\bin\Release\net6.0\Hotel.Models.pdb
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.AssemblyInfoInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.AssemblyInfo.cs
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.csproj.CoreCompileInputs.cache
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\ref\Hotel.Models.dll
+C:\Users\mhmd kamardien\source\repos\HotelBackWebApi\Hotel.Models\obj\Release\net6.0\Hotel.Models.pdb
